@@ -2,7 +2,7 @@
 import os
 
 
-def split_graph():
+def split_result():
     pass
 
 
